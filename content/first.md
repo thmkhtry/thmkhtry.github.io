@@ -20,3 +20,6 @@ slam
 سلام
 
 تست میکنیم ۱ دو سه صدا میاد؟
+
+
+<img title="عکس تستی" alt="عکس تستی" src="/images/PROFILE.jpeg">
